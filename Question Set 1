@@ -6,7 +6,54 @@ Solution. Impute and Delete(litwise deletion)
 Q3. Unbalanced Dataset in Machine Learning?  
 Solution: Upsampling, Downsampling and SMOTE(Synthetic Minority over-sampling technique), Weighted Loss Function.  
 
-Q4. Eavaluation Metrics for imbalanced dataset?  
-Sol. Precision, Recall or ROC = TPR + FPR  
-     >> https://towardsdatascience.com/what-metrics-should-we-use-on-imbalanced-data-set-precision-recall-roc-e2e79252aeba
+Q4. Eavaluation Metrics for imbalanced dataset?    
+Sol. Precision, Recall or ROC = TPR + FPR    
+     >> https://towardsdatascience.com/what-metrics-should-we-use-on-imbalanced-data-set-precision-recall-roc-e2e79252aeba  
+
+Q5. Radial Basis Function  
+
+Q6. What is Cost Function?  
+
+Q7. Gradient Descent?  
+
+OPtimization Method that learns value of parameters that minimizes the cos function.  
+
+Q8. Backpropagation?  
+>> Move error from the end of the network to weights inside of the network  
+>> Batch(update the weight using whole dataset in single iteration)  
+>> Minibatch(Minibatches of training examples).  
+>> stochastic(single training example)  
+
+Q9. Data Normalization  
+>> rescale to 0 -1. Faster/Better Convergence during backpropagation.
+>> Makes all features weighted equally.
+
+Q10. Weight Initialization in neural nets?  
+
+Q11. Autoencoder?  
+
+Q12. Boltzmann Machine?  
+
+Q13. Hopfield network?  
+
+Q14. Activation Function?  
+introduce non-linearity into the neural network helping it to learn complex functions.  
+
+Q15. Tradeoff between bias and variance?
+
+Q16. Explain underfitting and overfitting. How to avoid them?
+
+Q17. Combat the curse of dimensionality?
+PCA
+
+Q18. Regularization, Why use it. Common methods?
+
+Q19. Why ReLU better than Sigmoid?
+
+Q20. 
+
+
+#### Links  
+>> https://www.educba.com/deep-learning-interview-questions/  
+>> https://towardsdatascience.com/data-science-and-machine-learning-interview-questions-3f6207cf040b  
 
