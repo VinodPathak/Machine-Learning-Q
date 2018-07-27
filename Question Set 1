@@ -1,6 +1,12 @@
 Q1. Sparse Data Problem in Machine Learning?  
 
-Q2. Unbalanced Dataset in Machine Learning?  
+Q2. Handling missing values?  
+Solution. Impute and Delete(litwise deletion)  
 
-Q3. Handling missing values?  
-Ans 3. Impute and Delete(litwise deletion)  
+Q3. Unbalanced Dataset in Machine Learning?  
+Solution: Upsampling, Downsampling and SMOTE(Synthetic Minority over-sampling technique), Weighted Loss Function.  
+
+Q4. Eavaluation Metrics for imbalanced dataset?  
+Sol. Precision, Recall or ROC = TPR + FPR  
+     >> https://towardsdatascience.com/what-metrics-should-we-use-on-imbalanced-data-set-precision-recall-roc-e2e79252aeba
+
