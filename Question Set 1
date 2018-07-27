@@ -50,10 +50,26 @@ Q18. Regularization, Why use it. Common methods?
 
 Q19. Why ReLU better than Sigmoid?
 
-Q20. 
+Q20. Bottleneck architecture?
+
+Q21. Definitions  
+    1. Dropout  
+    2. Maxpooling  
+    3. Weight Sharing  
+    4. Data Augmentation  
+    5. Early Stopping  
+
+
+Interpreting P-Valiue and Level of significance
+>> https://www.youtube.com/watch?v=XyVDXRuA9Oc  
+>> https://www.youtube.com/watch?v=kx0xLnqJ_30  
 
 
 #### Links  
 >> https://www.educba.com/deep-learning-interview-questions/  
 >> https://towardsdatascience.com/data-science-and-machine-learning-interview-questions-3f6207cf040b  
+>> https://www.geeksforgeeks.org/tag/neural-network/  
+>> https://elitedatascience.com/machine-learning-interview-questions-answers  
+>> https://towardsdatascience.com/neural-network-architectures-156e5bad51ba  
+>> https://vitalflux.com/data-science-p-value-explained-examples/  
 
