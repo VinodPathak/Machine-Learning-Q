@@ -6,3 +6,4 @@
 >> https://engineering.eckovation.com/51-job-interview-related-questions-machine-learning-ml-artificial-intelligence-ai/  
 
 >> https://analyticsindiamag.com/popular-machine-learning-interview-questions-used-to-assess-candidates/
+>> https://semanti.ca/blog/?how-to-prepare-for-a-machine-learning-interview  
