@@ -7,3 +7,4 @@
 
 >> https://analyticsindiamag.com/popular-machine-learning-interview-questions-used-to-assess-candidates/
 >> https://semanti.ca/blog/?how-to-prepare-for-a-machine-learning-interview  
+>> https://medium.com/cracking-the-data-science-interview/how-to-think-like-a-data-scientist-in-12-steps-157ea8ad5da8  
