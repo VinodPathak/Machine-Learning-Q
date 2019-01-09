@@ -1,5 +1,7 @@
 ## Machine Learning Questions  
 > https://github.com/michelleful/CV  
+> https://www.dataquest.io/blog/how-data-science-resume-cv/  
+
 ### Data Science and Machine Learning Questions  
 >>  https://towardsdatascience.com/data-science-and-machine-learning-interview-questions-3f6207cf040b  
 
